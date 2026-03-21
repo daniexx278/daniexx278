@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daniexx278/daniexx278/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/daniexx278/daniexx278/main/banner1.png" />
 </p>
 
 <h1 align="center">👨‍💻 Future Systems Engineer | AI & Software Developer</h1>
