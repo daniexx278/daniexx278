@@ -1,10 +1,9 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Juan%20|%20Software%20Developer&fontSize=30&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/daniexx278/daniexx278/main/banner.png" />
 </p>
 
-<h1 align="center">👨‍💻 Danieln</h1>
-<h3 align="center">Future Systems Engineer | AI & Software Developer</h3>
+<h1 align="center">👨‍💻 Future Systems Engineer | AI & Software Developer</h1>
 
 ---
 
