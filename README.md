@@ -8,8 +8,9 @@
 ---
 
 ## 🧠 About Me
-💡 Future Systems Engineer passionate about **Software Development, AI and Data Analysis**  
-🚀 Focused on building scalable and impactful tech solutions  
+💡 Future Systems Engineer student at Pontificia Universidad Javeriana  
+⚡ passionate about **Software Development, Artificial Intelligence, and Data Analysis**  
+🚀 Focused on building scalable and impactful tech solutions.  
 🎮 Interested in game development and interactive systems  
 📊 Constantly learning new technologies and tools  
 
