@@ -8,12 +8,15 @@
 ---
 
 ## 🧠 About Me
-💡 Future Systems Engineer student at Pontificia Universidad Javeriana  
-⚡ passionate about **Software Development, Artificial Intelligence, and Data Analysis**  
-🚀 Focused on building scalable and impactful tech solutions.  
+💡 Systems Engineering student at Pontificia Universidad Javeriana  
+⚡ Passionate about Software Development, Artificial Intelligence, and Data Analysis  
+🚀 Focused on building scalable and impactful tech solutions  
 🎮 Interested in game development and interactive systems  
-📊 Constantly learning new technologies and tools  
+📊 Constantly learning new technologies and tools 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daniexx278&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ---
 
 ## ⚡ Tech Stack
@@ -57,12 +60,36 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=My&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=My&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniexx278&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=daniexx278&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=My&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniexx278&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniexx278&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daniexx278&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
